@@ -1,0 +1,7 @@
+
+.DS_Store
+.vscode/
+
+# all folders with __pycache__ files
+*/__pycache__/
+
